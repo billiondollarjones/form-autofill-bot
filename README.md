@@ -24,7 +24,7 @@ https://demoqa.com/automation-practice-form
 3. Selects state & city from dropdowns
 4. Submits the form
 5. Takes a screenshot of the confirmation modal 
-![Form Submission Screenshot](`form_submission_result.png`)
+![Form Submission Screenshot](https://github.com/billiondollarjones/form-autofill-bot/blob/main/form_submission_result.png)
 
 ## 🚀 How to Run
 
