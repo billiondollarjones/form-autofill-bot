@@ -23,7 +23,7 @@ https://demoqa.com/automation-practice-form
 2. Fills in name, email, gender, phone, subject, hobbies, address
 3. Selects state & city from dropdowns
 4. Submits the form
-5. Takes a screenshot of the confirmation modal (`form_submission_result.png`)
+5. Takes a screenshot of the confirmation modal ![Form Submission Screenshot] (`form_submission_result.png`)
 
 ## 🚀 How to Run
 
