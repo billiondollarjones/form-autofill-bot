@@ -29,7 +29,7 @@ https://demoqa.com/automation-practice-form
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/billiondollarjones/form-autofill-selenium.git
+git clone https://github.com/billiondollarjones/form-autofill-bot.git
 cd form-autofill-selenium
 pip install selenium webdriver-manager
 python main.py
